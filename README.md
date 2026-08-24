@@ -18,7 +18,7 @@ Este cuatrimestre he estado desarrollando sistemas aplicando **Onion Architectur
 
 ---
 
-## The Stack 🛠️
+## The Stack
 
 Estas son las herramientas y lenguajes con los que construyo la lógica y arquitectura de mis proyectos:
 
@@ -45,4 +45,13 @@ Estas son las herramientas y lenguajes con los que construyo la lógica y arquit
   <img src="https://shields.io" alt="MongoDB">
   <img src="https://shields.io" alt="MySQL">
   <img src="https://shields.io" alt="SQL Server">
+</p>
+
+### DevOps & Tools
+<p align="left">
+  <img src="https://shields.io" alt="Git">
+  <img src="https://shields.io" alt="GitHub">
+  <img src="https://shields.io" alt="Gitea">
+  <img src="https://shields.io" alt="Visual Studio">
+  <img src="https://shields.io" alt="VS Code">
 </p>
