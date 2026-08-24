@@ -23,35 +23,27 @@ Este cuatrimestre he estado desarrollando sistemas aplicando **Onion Architectur
 Estas son las herramientas y lenguajes con los que construyo la lógica y arquitectura de mis proyectos:
 
 ### Languages, Runtimes & Frameworks
-<p align="left">
-  <img src="https://shields.io" alt="JavaScript">
-  <img src="https://shields.io" alt="Node.js">
-  <img src="https://shields.io" alt="C#">
-  <img src="https://shields.io" alt=".NET 9">
-  <img src="https://shields.io" alt="Java">
-</p>
+![JavaScript](https://shields.io)
+![Node.js](https://shields.io)
+![C#](https://shields.io)
+![.NET 9](https://shields.io)
+![Java](https://shields.io)
 
 ### Architecture, Design Patterns & Testing
-<p align="left">
-  <img src="https://shields.io" alt="Onion Architecture">
-  <img src="https://shields.io" alt="CQRS & MediatR">
-  <img src="https://shields.io" alt="JWT">
-  <img src="https://shields.io" alt="xUnit">
-</p>
+![Onion Architecture](https://shields.io)
+![CQRS & MediatR](https://shields.io)
+![JWT Security](https://shields.io)
+![xUnit Testing](https://shields.io)
 
 ### Data Persistence
-<p align="left">
-  <img src="https://shields.io" alt="PostgreSQL">
-  <img src="https://shields.io" alt="MongoDB">
-  <img src="https://shields.io" alt="MySQL">
-  <img src="https://shields.io" alt="SQL Server">
-</p>
+![PostgreSQL](https://shields.io)
+![MongoDB](https://shields.io)
+![MySQL](https://shields.io)
+![SQL Server](https://shields.io)
 
 ### DevOps & Tools
-<p align="left">
-  <img src="https://shields.io" alt="Git">
-  <img src="https://shields.io" alt="GitHub">
-  <img src="https://shields.io" alt="Gitea">
-  <img src="https://shields.io" alt="Visual Studio">
-  <img src="https://shields.io" alt="VS Code">
-</p>
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Gitea](https://shields.io)
+![Visual Studio](https://shields.io)
+![VS Code](https://shields.io)
