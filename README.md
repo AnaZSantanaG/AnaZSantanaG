@@ -4,13 +4,13 @@
 
 ### Software Engineering Student | Backend, Web & Mobile Developer
 
-**[🇪🇸 Español](#-español) · [🇬🇧 English](#-english)**
+**[Español](#español) · [English](#english)**
 
 </div>
 
 ---
 
-## 🇪🇸 Español
+## Español
 
 Soy estudiante de Desarrollo de Software. Mi verdadero enfoque y pasión está en la lógica que corre detrás de las aplicaciones web y móviles. Me interesa profundizar en la seguridad, la protección de rutas, el control de accesos para evitar abusos en el sistema y asegurar la autenticidad de los usuarios.
 
@@ -20,11 +20,13 @@ Aunque tengo un sólido manejo de bases de datos para estructurar la informació
 
 ### What I'm Building
 
-Este cuatrimestre he estado desarrollando sistemas aplicando **Onion Architecture**, **CQRS con MediatR** y **.NET 9**:
+Estos proyectos fueron desarrollados en equipo, aplicando **Onion Architecture**, **CQRS con MediatR** y **.NET 9**:
 
-- **Artemis Banking Pro (Core Bancario)**: Diseñé la lógica de negocio y seguridad para un sistema bancario transaccional. Implementé autenticación mediante JWT, flujos seguros de restablecimiento de contraseñas y control de transferencias financieras concurrentes.
-- **RealEstateApp**: Desarrollé una API y plataforma web para la gestión inmobiliaria. Me encargué de la lógica de autorización por roles (Administradores, Agentes y Clientes) y del consumo seguro de endpoints protegidos.
-- **eVote360 (Sistema de Votación Electrónica)**: Implementé un sistema de validación de identidad para electores mediante procesamiento OCR (Tesseract) y controles estrictos para asegurar la confidencialidad, imparcialidad y unicidad del voto.
+- **[Artemis Banking Pro](https://github.com/Johanvasquezdev/ArtemisBankingPro) (Core Bancario)** *(repo privado, próximamente público)*: Diseñé la lógica de negocio y seguridad para un sistema bancario transaccional. Implementé autenticación mediante JWT, flujos seguros de restablecimiento de contraseñas y control de transferencias financieras concurrentes.
+- **[RealEstateApp](https://github.com/AnaZSantanaG/RealStateApp)**: Desarrollé una API y plataforma web para la gestión inmobiliaria. Me encargué de la lógica de autorización por roles (Administradores, Agentes y Clientes) y del consumo seguro de endpoints protegidos.
+- **[eVote360](https://github.com/AnaZSantanaG/Evote360Pro) (Sistema de Votación Electrónica)**: Implementé un sistema de validación de identidad para electores mediante procesamiento OCR (Tesseract) y controles estrictos para asegurar la confidencialidad, imparcialidad y unicidad del voto.
+- **[ImportCost Pro](https://github.com/AnaZSantanaG/ImportCost-Pro)**: Motor empresarial de costeo de importación (Landed Cost) en ASP.NET Core MVC (.NET 9) con EF Core y TailwindCSS v4. Automatiza la conversión multimoneda, el prorrateo de fletes/aranceles/ITBIS y la emisión de facturas oficiales inmutables.
+- **[LinkUp-Pro](https://github.com/GregoriEJimenezDev/LinkUp-Pro)**: Red social modular construida con ASP.NET Core 9 bajo Clean Architecture, con sistema de identidad, amistades, feed con reacciones/comentarios y persistencia en PostgreSQL.
 
 <hr style="border:0.5px solid #30363d">
 
@@ -70,7 +72,7 @@ Herramientas y lenguajes con los que construyo la lógica y arquitectura de mis 
 
 ---
 
-## 🇬🇧 English
+## English
 
 I'm a Software Engineering student. My real focus and passion is the logic running behind web and mobile applications. I'm interested in going deeper into security, route protection, and access control to prevent system abuse and ensure user authenticity.
 
@@ -78,13 +80,15 @@ Although I have a solid handle on databases for structuring app data, my main go
 
 <hr style="border:0.5px solid #30363d">
 
-###  What I'm Building
+### What I'm Building
 
-This term I've been building systems applying **Onion Architecture**, **CQRS with MediatR**, and **.NET 9**:
+These were team projects, built applying **Onion Architecture**, **CQRS with MediatR**, and **.NET 9**:
 
-- **Artemis Banking Pro (Banking Core)**: Designed the business logic and security for a transactional banking system. Implemented JWT authentication, secure password-reset flows, and concurrency control for financial transfers.
-- **RealEstateApp**: Built an API and web platform for real estate management. Handled role-based authorization logic (Admins, Agents, Clients) and secure consumption of protected endpoints.
-- **eVote360 (Electronic Voting System)**: Implemented voter identity validation using OCR processing (Tesseract) and strict controls to ensure vote confidentiality, impartiality, and uniqueness.
+- **[Artemis Banking Pro](https://github.com/Johanvasquezdev/ArtemisBankingPro) (Banking Core)** *(private repo, going public soon)*: Designed the business logic and security for a transactional banking system. Implemented JWT authentication, secure password-reset flows, and concurrency control for financial transfers.
+- **[RealEstateApp](https://github.com/AnaZSantanaG/RealStateApp)**: Built an API and web platform for real estate management. Handled role-based authorization logic (Admins, Agents, Clients) and secure consumption of protected endpoints.
+- **[eVote360](https://github.com/AnaZSantanaG/Evote360Pro) (Electronic Voting System)**: Implemented voter identity validation using OCR processing (Tesseract) and strict controls to ensure vote confidentiality, impartiality, and uniqueness.
+- **[ImportCost Pro](https://github.com/AnaZSantanaG/ImportCost-Pro)**: Enterprise landed-cost engine built with ASP.NET Core MVC (.NET 9), EF Core, and TailwindCSS v4. Automates multi-currency conversion, freight/tariff/tax proration, and issuing immutable official invoices.
+- **[LinkUp-Pro](https://github.com/GregoriEJimenezDev/LinkUp-Pro)**: Modular social network built with ASP.NET Core 9 under Clean Architecture, featuring an identity system, friend requests, a reaction/comment feed, and PostgreSQL persistence.
 
 <hr style="border:0.5px solid #30363d">
 
